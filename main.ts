@@ -1,4 +1,4 @@
-import { Database } from 'https://github.com/vamshi9666/AloeDB/blob/master/mod.ts'
+import { Database } from 'https://github.com/vamshi9666/AloeDB/master/mod.ts'
 
 
 
